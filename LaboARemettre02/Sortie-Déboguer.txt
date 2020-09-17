@@ -1,0 +1,19 @@
+﻿'LaboARemettre02.exe' (Win32) : Chargé 'D:\_2020Automne\420 1c6 prog\Devoir02\LaboARemettre02\Debug\LaboARemettre02.exe'. Les symboles ont été chargés.
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Le thread 0x4034 s'est arrêté avec le code 0 (0x0).
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\sspicli.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'LaboARemettre02.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\sechost.dll'. 
+Le thread 0x1fa8 s'est arrêté avec le code 0 (0x0).
+Le thread 0x4e24 s'est arrêté avec le code 0 (0x0).
+Le thread 0x1d08 s'est arrêté avec le code 0 (0x0).
+Le programme '[20440] LaboARemettre02.exe' s'est arrêté avec le code 0 (0x0).
